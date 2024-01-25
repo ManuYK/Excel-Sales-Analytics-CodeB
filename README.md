@@ -3,11 +3,19 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[Customer Performance Report]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Sales%20Report%20AtliQ%20Hardwares.pdf 
+    **1.** Create a [Sales Report AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Sales%20Report%20AtliQ%20Hardwares.pdf 
 
-    **2.** Conduct a comprehensive comparison between _[Market Perfomance and Sales Target]
+    **2.** Conduct a comprehensive comparison between [Market Perfomance and Target AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Market%20performance%20vs%20Target%20AtliQ%20Hardwares.pdf
+  
+   **3.** Assessing the performance of product divisions against predefined targets and benchmarks [Divisionwise Sales AtliQ Hardwares]
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+   **4.** Conduct a comprehensive comparison between [Market Perfomance and Sales Target]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Market%20performance%20vs%20Target%20AtliQ%20Hardwares.pdf
+
+   **5.** Conduct a comprehensive comparison between [Market Perfomance and Sales Target]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Market%20performance%20vs%20Target%20AtliQ%20Hardwares.pdf
+
+   **6.** Conduct a comprehensive comparison between [Market Perfomance and Sales Target]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Market%20performance%20vs%20Target%20AtliQ%20Hardwares.pdf
+
+- **Purp:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
