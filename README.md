@@ -3,17 +3,17 @@
 
 - **Project objective:** 
 
-    **1.** Create a [Sales Report AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Sales%20Report%20AtliQ%20Hardwares.pdf 
+    **1.**  Gaining insights into customer behavior, preferences, and buying patterns to tailor marketing and sales strategies for specific customer segments [Sales Report AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Sales%20Report%20AtliQ%20Hardwares.pdf 
 
-    **2.** Conduct a comprehensive comparison between [Market Perfomance and Target AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Market%20performance%20vs%20Target%20AtliQ%20Hardwares.pdf
+    **2.** Conduct a comprehensive comparison between [Market Performance and Target AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Market%20performance%20vs%20Target%20AtliQ%20Hardwares.pdf
   
-   **3.** Assessing the performance of product divisions against predefined targets and benchmarks [Divisionwise Sales AtliQ Hardwares]
+   **3.** Comparing and assessing the division-wise sales performance of products in the year 2020 and year 2021   [Divisionwise Sales AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Divisionwise%20Sales%20AtliQ%20Hardwares.pdf
 
-   **4.** Conduct a comprehensive comparison between [Market Perfomance and Sales Target]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Market%20performance%20vs%20Target%20AtliQ%20Hardwares.pdf
+   **4.**  Assessing the performance of top-selling products and areas for product improvement or expansion [Top 10 Products AtliQ Hardwares]
 
-   **5.** Conduct a comprehensive comparison between [Market Perfomance and Sales Target]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Market%20performance%20vs%20Target%20AtliQ%20Hardwares.pdf
+   **5.** Assessing the performance of top-selling and bottom-selling products quantity-wise and areas for product improvement or expansion [Top 5 and Bottom 5 Products AtliQ Hardwares]
 
-   **6.** Conduct a comprehensive comparison between [Market Perfomance and Sales Target]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Market%20performance%20vs%20Target%20AtliQ%20Hardwares.pdf
+   **6.** Conduct a comprehensive comparison between [Top 5 countries AtliQ Hardwares]
 
 - **Purp:** Empower businesses to monitor and evaluate their sales activities and performance.
 
