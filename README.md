@@ -13,7 +13,7 @@
 
    **5.** Assessing the performance of top-selling and bottom-selling products quantity-wise and areas for product improvement or expansion [Top 5 and Bottom 5 Products AtliQ Hardwares]
 
-   **6.** Conduct a comprehensive comparison between [Top 5 countries AtliQ Hardwares]
+   **6.** Identifying and analysing the top 5 countries with the highest Net sales  [Top 5 countries AtliQ Hardwares]
 
 - **Purp:** Empower businesses to monitor and evaluate their sales activities and performance.
 
