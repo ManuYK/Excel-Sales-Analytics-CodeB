@@ -9,7 +9,7 @@
   
    **3.** Comparing and assessing the division-wise sales performance of products in the year 2020 and year 2021   [Divisionwise Sales AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Divisionwise%20Sales%20AtliQ%20Hardwares.pdf
 
-   **4.**  Assessing the performance of top-selling products and areas for product improvement or expansion [Top 10 Products AtliQ Hardwares]
+   **4.**  Assessing the performance of top-selling products and areas for product improvement or expansion [Top 10 Products AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Top%2010%20Products%20AtliQ%20Hardwares.pdf
 
    **5.** Assessing the performance of top-selling and bottom-selling products quantity-wise and areas for product improvement or expansion [Top 5 and Bottom 5 Products AtliQ Hardwares]
 
