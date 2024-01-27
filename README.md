@@ -15,7 +15,7 @@
 
    **6.** Identifying and analyzing the top 5 countries with the highest Net sales  [Top 5 countries AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/Top%205%20countries%20AtliQ%20Hardwares.pdf
 
-  **7.** Determining the level of acceptance and reception of the new product launched in 2021 within the target market  [New Products 2021 AtliQ Hardwares]
+  **7.** Determining the level of acceptance and reception of the new product launched in 2021 within the target market  [New Products 2021 AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/New%20Products%202021%20AtliQ%20Hardwares.pdf
 
 
 - **Purp:** Empower businesses to monitor and evaluate their sales activities and performance.
