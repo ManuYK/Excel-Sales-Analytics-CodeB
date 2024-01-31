@@ -17,9 +17,11 @@
 
   **7.** Determining the level of acceptance and reception of the new product launched in 2021 within the target market  [New Products 2021 AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/New%20Products%202021%20AtliQ%20Hardwares.pdf
 
-    **8.** To provide insights into a company's financial performance over specific quarters[P & L Quarters AtliQ Hardwares]
+    **8.** To provide insights into a company's financial performance over specific quarters[P & L Quarters AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/P%20%26%20L%20Quarters%20AtliQ%20Hardwares.pdf
 
+ **9.** Summarizing the financial performance of AtliQ Hardware over the fiscal years 2019, 2020 and 2021 [P & L Fiscal years AtliQ Harwares]
 
+ 
 - **Purp:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
