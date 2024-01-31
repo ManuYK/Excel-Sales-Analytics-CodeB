@@ -1,4 +1,4 @@
-## Sales Report AtliQ Hardwares :
+## Sales Report AtliQ Hardware :
 
 
 - **Project objective:** 
@@ -17,14 +17,9 @@
 
   **7.** Determining the level of acceptance and reception of the new product launched in 2021 within the target market  [New Products 2021 AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/New%20Products%202021%20AtliQ%20Hardwares.pdf
 
-    **8.** To provide insights into a company's financial performance over specific quarters[P & L Quarters AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/P%20%26%20L%20Quarters%20AtliQ%20Hardwares.pdf
+- **Purpose:** The purpose of generating a Net Sales report is to track revenue generated from sales activities.
 
- **9.** Summarizing the financial performance of AtliQ Hardware over the fiscal years 2019, 2020 and 2021 [P & L Fiscal years AtliQ Harwares]
-
- 
-- **Purp:** Empower businesses to monitor and evaluate their sales activities and performance.
-
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing sales data:** The importance of analyzing sales data lies in uncovering insights to drive strategic decision-making, optimize performance, and enhance revenue growth
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
@@ -33,13 +28,14 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+     **1.** To provide insights into a company's financial performance over specific quarters[P & L Quarters AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/P%20%26%20L%20Quarters%20AtliQ%20Hardwares.pdf
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+    **2.** Summarizing the financial performance of AtliQ Hardware over the fiscal years 2019, 2020, and 2021 [P & L Fiscal years AtliQ 
+Harwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/P%20%26%20L%20by%20Fiscal%20years%20AtliQ%20Hardwares.pdf
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose:** The Profit and Loss report summarizes the financial performance by detailing revenues, expenses, and net profit or loss over a specific period.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analyzing Finance data:** To gain insights into financial health, performance, and trends, informing effective decision-making and ensuring organizational stability and growth.
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
@@ -56,4 +52,4 @@
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Developing a systematic approach to devising a report-building plan.
