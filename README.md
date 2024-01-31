@@ -17,6 +17,8 @@
 
   **7.** Determining the level of acceptance and reception of the new product launched in 2021 within the target market  [New Products 2021 AtliQ Hardwares]https://github.com/ManuYK/Excel-Sales-Analytics-CodeB/blob/main/New%20Products%202021%20AtliQ%20Hardwares.pdf
 
+    **8.** To provide insights into a company's financial performance over specific quarters[P & L Quarters AtliQ Hardwares]
+
 
 - **Purp:** Empower businesses to monitor and evaluate their sales activities and performance.
 
